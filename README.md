@@ -44,14 +44,12 @@ A modern, collaborative shopping list web application built with Python, Flask, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shopping-list.git
+   git clone https://github.com/royen99/shopping-list.git
    cd shopping-list
 
 2. Build and start the containers:
    ```bash
    docker-compose up --build
 
-3. Access the application at `http://localhost:5000`.
-
-
+3. Access the application at `http://localhost:5000` (or the port that you chose).
    
