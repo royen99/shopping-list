@@ -1,0 +1,30 @@
+__pycache__/
+venv/
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+# C extensions
+*.so
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+# PyInstaller
+*.spec
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+# Unit test / coverage reports
+*.coverage
+*.cover
+*.log
+# Translations
+*.mo
+*.po
+# Jupyter Notebook
+*.ipynb
+# mypy
+.mypy_cache/
+# Pyre type checker
+.pyre/
+# pytype
+.pytype/
